@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T15:38:06.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="1c4OsWY9CIrKilZAcnOw" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T15:41:05.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="YrP_zAGx0iQ8YvvZo-q2" version="14.5.7" type="github">
   <diagram id="cdb5e136-1861-7ef1-5e76-c57f7e18aa8d" name="ERD Data Structure - Habit Tracker App">
     <mxGraphModel dx="946" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -328,7 +328,7 @@
           <mxGeometry width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="lcivj8wxRk5je3pBpGyj-41" value="Компания" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;strokeWidth=1;fontSize=13;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="740" y="383" width="160" height="278" as="geometry" />
+          <mxGeometry x="760" y="383" width="160" height="278" as="geometry" />
         </mxCell>
         <mxCell id="lcivj8wxRk5je3pBpGyj-158" value="CompanyKey" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=5;" vertex="1" parent="lcivj8wxRk5je3pBpGyj-41">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -430,7 +430,7 @@
           <mxGeometry width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="lcivj8wxRk5je3pBpGyj-63" value="Клиент" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;strokeWidth=1;fontSize=13;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="640" width="160" height="170" as="geometry" />
+          <mxGeometry x="1480" y="640" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="lcivj8wxRk5je3pBpGyj-64" value="ClientID" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=5;" vertex="1" parent="lcivj8wxRk5je3pBpGyj-63">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -490,7 +490,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lcivj8wxRk5je3pBpGyj-119" value="Покупка" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;strokeWidth=1;fontSize=13;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="681" width="160" height="88" as="geometry" />
+          <mxGeometry x="1260" y="681" width="160" height="88" as="geometry" />
         </mxCell>
         <mxCell id="lcivj8wxRk5je3pBpGyj-122" value="TransactionID" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=2" vertex="1" parent="lcivj8wxRk5je3pBpGyj-119">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -523,7 +523,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lcivj8wxRk5je3pBpGyj-138" value="Покупка" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;strokeWidth=1;fontSize=13;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="480" y="450" width="160" height="88" as="geometry" />
+          <mxGeometry x="480" y="478" width="160" height="88" as="geometry" />
         </mxCell>
         <mxCell id="lcivj8wxRk5je3pBpGyj-139" value="MuseumID" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=2" vertex="1" parent="lcivj8wxRk5je3pBpGyj-138">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
