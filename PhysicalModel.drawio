@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T08:24:42.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="Tgy52hxgMdSdmWKGcdrF" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T08:41:44.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="4hlvjLVRRzkMnm9x-zpt" version="15.2.9" type="github">
   <diagram id="o0QO030AYa-Z26iIgUmp" name="Page-1">
     <mxGraphModel dx="2050" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1141,12 +1141,12 @@
         <mxCell id="ikYVi9CUkikHwhLRP4jJ-63" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ikYVi9CUkikHwhLRP4jJ-37" vertex="1">
           <mxGeometry y="230" width="660" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="ikYVi9CUkikHwhLRP4jJ-64" value="PAYMENT_ACCOUNT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="ikYVi9CUkikHwhLRP4jJ-63" vertex="1">
+        <mxCell id="ikYVi9CUkikHwhLRP4jJ-64" value="CARD_NMBR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="ikYVi9CUkikHwhLRP4jJ-63" vertex="1">
           <mxGeometry width="131" height="44" as="geometry">
             <mxRectangle width="131" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ikYVi9CUkikHwhLRP4jJ-65" value="Платежный аккаунт" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="ikYVi9CUkikHwhLRP4jJ-63" vertex="1">
+        <mxCell id="ikYVi9CUkikHwhLRP4jJ-65" value="Номер карты клиента" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="ikYVi9CUkikHwhLRP4jJ-63" vertex="1">
           <mxGeometry x="131" width="199" height="44" as="geometry">
             <mxRectangle width="199" height="44" as="alternateBounds" />
           </mxGeometry>
