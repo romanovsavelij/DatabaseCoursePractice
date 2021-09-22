@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T09:40:40.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="hylGEVtf1WyoCwu7Htm_" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T14:10:48.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="vJlYE5SSGNhLAHek7bEQ" version="15.2.9" type="github">
   <diagram id="cdb5e136-1861-7ef1-5e76-c57f7e18aa8d" name="ERD Data Structure - Habit Tracker App">
     <mxGraphModel dx="1200" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
         <mxCell id="lcivj8wxRk5je3pBpGyj-161" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="lcivj8wxRk5je3pBpGyj-160" vertex="1" connectable="0">
           <mxGeometry width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="4TBp0AyTg6Zfnw0NPKNb-20" value="ORDER_COST" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" vertex="1" parent="lcivj8wxRk5je3pBpGyj-52">
+        <mxCell id="4TBp0AyTg6Zfnw0NPKNb-20" value="TICKETS_CNT" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;align=left;verticalAlign=top;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" vertex="1" parent="lcivj8wxRk5je3pBpGyj-52">
           <mxGeometry y="134" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4TBp0AyTg6Zfnw0NPKNb-21" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" vertex="1" connectable="0" parent="4TBp0AyTg6Zfnw0NPKNb-20">
@@ -392,7 +392,7 @@
         <mxCell id="4TBp0AyTg6Zfnw0NPKNb-8" value="Опубликован ли музей" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="816" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4TBp0AyTg6Zfnw0NPKNb-22" value="Стоимость заказа" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4TBp0AyTg6Zfnw0NPKNb-22" value="Количество билетов в заказе" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1220" y="816" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4TBp0AyTg6Zfnw0NPKNb-25" value="Статус заказа" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
